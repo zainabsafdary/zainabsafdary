@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**zainabsafdary/zainabsafdary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Zainab (ZEY_NAB), a data analyst based in United States. 
 
-Here are some ideas to get you started:
+I try to find answers for my everyday questions (which are mostly finance and AI related) using data. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My go-to tools are Excel, SQL, Python, R, and Power BI.
+Currently, I am working on my machine learning and cloud computing skills. 
+
+My first finance/data project was an analysis of NVIDIA's Cash Flow. 
+
+I will add my Favorite project when I find it...
+
+**Fun Facts:** 
+* I teach a cooking class at a senior center. 
+* I love pink Tulips. 
+* I have never received a gift card in my life.
+
+**Hobbies:** Boxing, Hiking, Reading, Biking, and Fixing things. 
